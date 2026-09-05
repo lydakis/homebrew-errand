@@ -2,17 +2,18 @@
 
 [Errand](https://github.com/lydakis/errand) runs commands on machines you own.
 
-This tap is prepared for the first stable release. No formula is published yet.
-You can add the tap now:
-
-```sh
-brew tap lydakis/errand
-```
-
-After the first stable release and formula update:
+Install the latest stable release on macOS or Linux:
 
 ```sh
 brew install lydakis/errand/errand
+errand version
+```
+
+Upgrade an existing installation:
+
+```sh
+brew update
+brew upgrade lydakis/errand/errand
 ```
 
 ## Maintainers
