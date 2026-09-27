@@ -1,8 +1,8 @@
 class Errand < Formula
   desc "Personal job runner for machines you own"
   homepage "https://github.com/lydakis/errand"
-  url "https://github.com/lydakis/errand/releases/download/v0.5.0/errand_0.5.0_source.tar.gz"
-  sha256 "88f0275899118752509392191a16d6705467d01d1d7030b78826835eec030c41"
+  url "https://github.com/lydakis/errand/releases/download/v0.6.0/errand_0.6.0_source.tar.gz"
+  sha256 "5453624e1d42f69e840fe42780f5e2336d428c133b0e452682e4576da0ab7185"
   license "MIT"
 
   depends_on "go" => :build
